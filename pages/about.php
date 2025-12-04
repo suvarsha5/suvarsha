@@ -105,7 +105,7 @@ require_once INCLUDES_PATH . '/header.php';
                 <div class="bg-gradient-to-r from-blue-400 to-blue-600 w-32 h-32 rounded-full flex items-center justify-center mx-auto mb-4">
                     <i class="fas fa-user text-white text-5xl"></i>
                 </div>
-                <h3 class="text-xl font-semibold mb-2">John Smith</h3>
+                <h3 class="text-xl font-semibold mb-2">Dolly Dhanwani</h3>
                 <p class="text-blue-600 mb-2">CEO & Founder</p>
                 <p class="text-gray-600 text-sm">20+ years of experience in IT consulting and digital transformation</p>
             </div>
@@ -114,7 +114,7 @@ require_once INCLUDES_PATH . '/header.php';
                 <div class="bg-gradient-to-r from-blue-400 to-blue-600 w-32 h-32 rounded-full flex items-center justify-center mx-auto mb-4">
                     <i class="fas fa-user text-white text-5xl"></i>
                 </div>
-                <h3 class="text-xl font-semibold mb-2">Sarah Johnson</h3>
+                <h3 class="text-xl font-semibold mb-2">Suketu Deliwala</h3>
                 <p class="text-blue-600 mb-2">CTO</p>
                 <p class="text-gray-600 text-sm">Expert in cloud architecture and enterprise solutions</p>
             </div>
@@ -123,7 +123,7 @@ require_once INCLUDES_PATH . '/header.php';
                 <div class="bg-gradient-to-r from-blue-400 to-blue-600 w-32 h-32 rounded-full flex items-center justify-center mx-auto mb-4">
                     <i class="fas fa-user text-white text-5xl"></i>
                 </div>
-                <h3 class="text-xl font-semibold mb-2">Mike Davis</h3>
+                <h3 class="text-xl font-semibold mb-2">Vinit Deliwala</h3>
                 <p class="text-blue-600 mb-2">Lead Developer</p>
                 <p class="text-gray-600 text-sm">Specialized in modern web technologies and agile methodologies</p>
             </div>
