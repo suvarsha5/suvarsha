@@ -145,7 +145,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         </div>
                         <div>
                             <h3 class="font-semibold mb-1">Address</h3>
-                            <p class="text-gray-600">123 Tech Street<br>City, State 12345<br>United States</p>
+                            <p class="text-gray-600">151 Dan Leckie Way<br>Toronto, Ontario M5V4B2<br>Canada</p>
                         </div>
                     </div>
                 </div>

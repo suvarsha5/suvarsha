@@ -42,7 +42,7 @@
                     <ul class="space-y-2 text-gray-400">
                         <li><i class="fas fa-envelope mr-2"></i><?php echo SITE_EMAIL; ?></li>
                         <li><i class="fas fa-phone mr-2"></i><?php echo SITE_PHONE; ?></li>
-                        <li><i class="fas fa-map-marker-alt mr-2"></i>123 Tech Street, City, State 12345</li>
+                        <li><i class="fas fa-map-marker-alt mr-2"></i>151 Dan Leckie Way, Toronto, Ontario M5V4B2 Canada</li>
                     </ul>
                 </div>
             </div>
