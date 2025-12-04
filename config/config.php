@@ -4,9 +4,9 @@
  */
 
 // Site Information
-define('SITE_NAME', 'TechConsult Pro');
+define('SITE_NAME', 'Suvarsha TechConsult');
 define('SITE_URL', 'http://localhost');
-define('SITE_EMAIL', 'info@techconsultpro.com');
+define('SITE_EMAIL', 'info@suvarsh.com');
 define('SITE_PHONE', '+1 (555) 123-4567');
 
 // Paths

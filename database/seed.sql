@@ -13,10 +13,10 @@ INSERT INTO case_studies (title, description, client_name, technologies, feature
 
 -- Insert sample testimonials
 INSERT INTO testimonials (client_name, company, testimonial, rating, featured) VALUES
-('John Anderson', 'RetailCorp Inc.', 'TechConsult Pro transformed our business operations. Their expertise in cloud solutions helped us scale efficiently and reduce costs significantly. Highly recommended!', 5, TRUE),
+('John Anderson', 'RetailCorp Inc.', 'Suvarsha TechConsult transformed our business operations. Their expertise in cloud solutions helped us scale efficiently and reduce costs significantly. Highly recommended!', 5, TRUE),
 ('Sarah Martinez', 'TechGlobal Solutions', 'Outstanding service and technical expertise. The team delivered our project on time and exceeded our expectations. We\'re already planning our next project with them.', 5, TRUE),
 ('Michael Chen', 'FinanceFirst Bank', 'Professional, reliable, and innovative. They understood our requirements perfectly and delivered a solution that has revolutionized our customer experience.', 5, TRUE),
-('Emily Johnson', 'StartupXYZ', 'As a startup, we needed cost-effective solutions. TechConsult Pro provided exactly that - high-quality work at reasonable prices. Great partnership!', 5, FALSE),
+('Emily Johnson', 'StartupXYZ', 'As a startup, we needed cost-effective solutions. Suvarsha TechConsult provided exactly that - high-quality work at reasonable prices. Great partnership!', 5, FALSE),
 ('David Williams', 'Enterprise Solutions Ltd.', 'Their attention to detail and commitment to quality is impressive. The support team is always responsive and helpful.', 4, FALSE);
 
 -- Insert sample blog posts
